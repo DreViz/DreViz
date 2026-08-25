@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="64" viewBox="0 0 620 64" role="img" aria-label="quest log" shape-rendering="crispEdges">
+  <rect x="6" y="6" width="606" height="52" fill="#101120"/>
+  <rect width="606" height="52" fill="#1a1b2e" stroke="#30363d" stroke-width="2"/>
+  <g transform="translate(24,12)">
+    <rect x="12" y="2" width="5" height="14" fill="#4ade80"/>
+    <rect x="12" y="19" width="5" height="5" fill="#4ade80"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></rect>
+  </g>
+  <text x="72" y="36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-weight="700" letter-spacing="2" fill="#4ade80">QUEST LOG</text>
+  <text x="588" y="34" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#8b949e">// shipping phase 7</text>
+</svg>

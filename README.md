@@ -6,8 +6,8 @@
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bhdr_player_dark.svg">
-  <img src="bhdr_player_light.svg" alt="player">
+  <source media="(prefers-color-scheme: dark)" srcset="sec_player_dark.svg">
+  <img src="sec_player_light.svg" alt="player">
 </picture>
 
 <img src="dialogue.svg" alt="dialogue box">
@@ -21,8 +21,8 @@ Every token accounted for. Most builds below started as a question I
 couldn't answer by reading — so I built the answer.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bhdr_quest_dark.svg">
-  <img src="bhdr_quest_light.svg" alt="quest log">
+  <source media="(prefers-color-scheme: dark)" srcset="sec_quest_dark.svg">
+  <img src="sec_quest_light.svg" alt="quest log">
 </picture>
 
 Active quest: ship **[GoodFood](https://github.com/DreViz/GoodFood)** phase
@@ -33,8 +33,8 @@ evaluation, MCP tooling.
 Open to backend/AI roles — Bangalore or remote.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bhdr_builds_dark.svg">
-  <img src="bhdr_builds_light.svg" alt="the builds">
+  <source media="(prefers-color-scheme: dark)" srcset="sec_builds_dark.svg">
+  <img src="sec_builds_light.svg" alt="the builds">
 </picture>
 
 <table>
@@ -53,8 +53,8 @@ Open to backend/AI roles — Bangalore or remote.
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bhdr_inv_dark.svg">
-  <img src="bhdr_inv_light.svg" alt="inventory">
+  <source media="(prefers-color-scheme: dark)" srcset="sec_inv_dark.svg">
+  <img src="sec_inv_light.svg" alt="inventory">
 </picture>
 
 <picture>
@@ -66,8 +66,8 @@ Python · Go · TypeScript · FastAPI · Next.js · PostgreSQL · Ollama · MCP 
 Playwright · Manim · Docker
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bhdr_xp_dark.svg">
-  <img src="bhdr_xp_light.svg" alt="xp bars">
+  <source media="(prefers-color-scheme: dark)" srcset="sec_xp_dark.svg">
+  <img src="sec_xp_light.svg" alt="xp bars">
 </picture>
 
 <picture>
