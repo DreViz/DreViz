@@ -1,11 +1,18 @@
 <a href="https://github.com/DreViz">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="Vaibhav Deori" src="light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg">
+    <img alt="Vaibhav Deori" src="banner_light.svg">
   </picture>
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ticker_dark.svg">
+  <img alt="stack ticker" src="ticker_light.svg">
+</picture>
+
 ### Who
+
+<img src="terminal.svg" alt="terminal intro">
 
 Engineer in Bangalore. I build LLM agents that earn their keep: they plan,
 call tools, review their own output, and run on hardware I control. When the
@@ -68,8 +75,8 @@ API. Kept for the record.
 ### Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="langs_dark.svg">
-  <img alt="Top languages" src="langs_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="langs_anim_dark.svg">
+  <img alt="Top languages" src="langs_anim_light.svg">
 </picture>
 
 <!-- Uncomment and fill in when ready:

@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Vaibhav Deori">
-  <rect width="1200" height="300" rx="16" fill="#f6f8fa"/>
-  <rect x="60" y="86" width="72" height="7" rx="3.5" fill="#0969da"/>
-  <text x="60" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="58" font-weight="700" fill="#1f2328">Vaibhav Deori</text>
-  <text x="60" y="224" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="27" fill="#57606a">LLM agents · infrastructure · local models · Bangalore</text>
-</svg>

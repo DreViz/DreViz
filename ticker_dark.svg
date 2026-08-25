@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="stack ticker">
+  <defs>
+    <clipPath id="tick"><rect width="1200" height="90" rx="16"/></clipPath>
+    <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#161b22" stop-opacity="1"/><stop offset="1" stop-color="#161b22" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeR" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#161b22" stop-opacity="1"/><stop offset="1" stop-color="#161b22" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="90" rx="16" fill="#161b22"/>
+  <g clip-path="url(#tick)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1200 0" dur="22s" repeatCount="indefinite" calcMode="linear"/>
+      <text x="40" y="56" textLength="1200" lengthAdjust="spacing" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#e6edf3">python · go · typescript · fastapi · next.js · postgresql · ollama · mcp · playwright · manim · </text>
+      <text x="1240" y="56" textLength="1200" lengthAdjust="spacing" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#e6edf3">python · go · typescript · fastapi · next.js · postgresql · ollama · mcp · playwright · manim · </text>
+    </g>
+  </g>
+  <rect width="90" height="90" fill="url(#fadeL)"/>
+  <rect x="1110" width="90" height="90" fill="url(#fadeR)"/>
+</svg>
