@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="92" viewBox="0 0 620 92" role="img" aria-label="now">
+  <rect width="620" height="92" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect x="20" y="24" width="44" height="44" rx="10" fill="#eaeef2" stroke="#1a7f37" stroke-width="1.5"/>
+  <circle cx="42" cy="46" r="7" fill="#1a7f37">
+    <animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="84" y="57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="700" fill="#1a7f37">~/now</text>
+  <text x="600" y="55" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#57606a">// shipping phase 7</text>
+</svg>

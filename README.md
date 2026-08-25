@@ -10,7 +10,10 @@
   <img alt="stack ticker" src="ticker_light.svg">
 </picture>
 
-### Who
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hdr_who_dark.svg">
+  <img src="hdr_who_light.svg" alt="who">
+</picture>
 
 <img src="terminal.svg" alt="terminal intro">
 
@@ -23,7 +26,10 @@ I like systems with real constraints. No customer data leaving the machine.
 Every token accounted for. Most repos below started as a question I couldn't
 answer by reading — so I built the answer.
 
-### Now
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hdr_now_dark.svg">
+  <img src="hdr_now_light.svg" alt="now">
+</picture>
 
 Shipping **[GoodFood](https://github.com/DreViz/GoodFood)** phase 7:
 deployment, walkthrough video, and the writeup of the 4 GB model-selection
@@ -31,7 +37,10 @@ measurements. Going deeper on **Go**, agent evaluation, and MCP tooling.
 
 Open to AI/backend roles — Bangalore or remote.
 
-### Building
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hdr_building_dark.svg">
+  <img src="hdr_building_light.svg" alt="building">
+</picture>
 
 <table>
   <tr>
@@ -48,12 +57,18 @@ Open to AI/backend roles — Bangalore or remote.
   </tr>
 </table>
 
-### Earlier
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hdr_earlier_dark.svg">
+  <img src="hdr_earlier_light.svg" alt="earlier">
+</picture>
 
 Where the questions started. Manim animations, sentiment analysis, stocks,
 a music API. Kept for the record.
 
-### Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hdr_stack_dark.svg">
+  <img src="hdr_stack_light.svg" alt="stack">
+</picture>
 
 | | |
 |---|---|
@@ -63,7 +78,10 @@ a music API. Kept for the record.
 | **Data** | PostgreSQL |
 | **Tooling** | Playwright · Manim · Docker |
 
-### Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hdr_languages_dark.svg">
+  <img src="hdr_languages_light.svg" alt="languages">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="langs_anim_dark.svg">

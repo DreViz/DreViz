@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="92" viewBox="0 0 620 92" role="img" aria-label="who">
+  <rect width="620" height="92" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+  <rect x="20" y="24" width="44" height="44" rx="10" fill="#eaeef2" stroke="#0969da" stroke-width="1.5"/>
+  <circle cx="42" cy="39" r="6" fill="#0969da"/>
+  <path d="M31 58 a11 11 0 0 1 22 0" fill="none" stroke="#0969da" stroke-width="2.5"/>
+  <text x="84" y="57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="700" fill="#0969da">~/who</text>
+  <text x="600" y="55" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#57606a">// engineer, bangalore</text>
+</svg>
