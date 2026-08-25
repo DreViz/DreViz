@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-label="InfraForge project card">
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0f1723"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="380" rx="16" fill="url(#cbg)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="40" y="40" width="56" height="6" rx="3" fill="#f0883e"/>
+  <text x="40" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="32" font-weight="700" fill="#e6edf3">InfraForge</text>
+  <text x="560" y="102" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" fill="#f0883e">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="2.5s" repeatCount="indefinite"/>↗</text>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/>
+    <text x="40" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-style="italic" fill="#f0883e">what if describing infra</text>
+    <text x="40" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" font-style="italic" fill="#f0883e">was the whole job?</text>
+  </g>
+  <text x="40" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#8b949e">Plain English to production Terraform,</text>
+  <text x="40" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#8b949e">diagrams, cost, security audits.</text>
+  <rect x="40" y="316" width="130" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="105" y="334" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#79c0ff">typescript</text>
+  <rect x="182" y="316" width="108" height="26" rx="13" fill="#161b22" stroke="#30363d"/>
+  <text x="236" y="334" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#79c0ff">terraform</text>
+</svg>

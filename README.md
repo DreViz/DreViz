@@ -33,34 +33,20 @@ Open to AI/backend roles — Bangalore or remote.
 
 ### Building
 
-**[GoodFood](https://github.com/DreViz/GoodFood)** — *how small can a model
-be before a multi-step agent breaks?*
-Two-agent restaurant concierge. A Planner decides the next action as strict
-JSON, a Responder speaks human, all on a local Ollama model so no customer
-data leaves the machine. The 4 GB question is measured, not guessed.
-`python` `fastapi` `next.js` `ollama` `postgres`
-
-**[Open-Router](https://github.com/DreViz/Open-Router)** — *what does a
-gateway owe everyone pointing an SDK at it?*
-OpenAI-compatible LLM gateway in Go: auth, rate limits, provider routing,
-SSE streaming, atomic per-token billing. Point any OpenAI SDK at it —
-nothing changes client-side. `go` `postgres` `next.js`
-
-**[doc_agent](https://github.com/DreViz/doc_agent)** — *can an agent
-critique its own draft, honestly?*
-Plans its own work, drafts with explicitly recorded assumptions, runs a
-bounded self-review loop, then renders a polished .docx. Ships with
-hermetic tests. `python` `fastapi`
-
-**[InfraForge](https://github.com/DreViz/Infra4rge)** — *what if describing
-infrastructure was the whole job?*
-Plain English in, production-ready Terraform out — architecture diagrams,
-cost estimates, security audits. In the browser, no account. `typescript`
-
-**[Playwrite_MCP](https://github.com/DreViz/Playwrite_MCP)** — *what does a
-browser-automation server look like from scratch?*
-Custom Playwright MCP server: distributed test execution, own tool
-implementations, multiple browser contexts. `typescript` `playwright`
+<table>
+  <tr>
+    <td><a href="https://github.com/DreViz/GoodFood"><img src="card_goodfood.svg" alt="GoodFood — how small can a model be before an agent breaks?"></a></td>
+    <td><a href="https://github.com/DreViz/Open-Router"><img src="card_openrouter.svg" alt="Open-Router — what does a gateway owe every SDK pointed at it?"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DreViz/doc_agent"><img src="card_docagent.svg" alt="doc_agent — can an agent critique its own draft, honestly?"></a></td>
+    <td><a href="https://github.com/DreViz/Infra4rge"><img src="card_infraforge.svg" alt="InfraForge — what if describing infra was the whole job?"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DreViz/Playwrite_MCP"><img src="card_playwrite.svg" alt="Playwrite_MCP — what does a browser-automation server look like from scratch?"></a></td>
+    <td></td>
+  </tr>
+</table>
 
 ### Earlier
 
