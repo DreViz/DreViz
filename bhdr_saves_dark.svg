@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="92" viewBox="0 0 620 92" role="img" aria-label="old saves" shape-rendering="crispEdges">
+  <rect x="6" y="6" width="606" height="80" fill="#101120"/>
+  <rect width="606" height="80" fill="#1a1b2e" stroke="#30363d" stroke-width="2"/>
+  <g transform="translate(24,26)">
+    <rect x="4" y="4" width="20" height="22" fill="#64748b"/>
+    <rect x="14" y="4" width="7" height="6" fill="#1a1b2e"/>
+    <rect x="8" y="14" width="12" height="9" fill="#e2e8f0"/>
+  </g>
+  <text x="72" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="700" letter-spacing="2" fill="#94a3b8">OLD SAVES</text>
+  <text x="588" y="48" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#8b949e">// where it started</text>
+</svg>

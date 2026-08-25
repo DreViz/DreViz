@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450" role="img" aria-label="Playwrite_MCP" shape-rendering="crispEdges">
+  <rect x="6" y="6" width="588" height="438" fill="#101120"/>
+  <rect width="588" height="438" fill="#1a1b2e" stroke="#30363d" stroke-width="2"/>
+  <g>
+    <rect x="160" y="44" width="240" height="20" fill="#be185d"/>
+    <rect x="160" y="64" width="52" height="112" fill="#f472b6"/>
+    <rect x="174" y="64" width="12" height="112" fill="#be185d"/>
+    <rect x="198" y="64" width="12" height="112" fill="#db2777"/>
+    <rect x="348" y="64" width="52" height="112" fill="#f472b6"/>
+    <rect x="362" y="64" width="12" height="112" fill="#be185d"/>
+    <rect x="386" y="64" width="12" height="112" fill="#db2777"/>
+    <rect x="212" y="70" width="136" height="100" fill="#e2e8f0"/>
+    <path d="M262 105 L262 135 L292 120 Z" fill="#1a1b2e">
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <rect x="160" y="176" width="240" height="24" fill="#7c2d12"/>
+    <rect x="0" y="200" width="600" height="12" fill="#4ade80"/>
+    <rect x="0" y="212" width="600" height="14" fill="#92400e"/>
+  </g>
+  <text x="40" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="700" fill="#e6edf3">Playwrite_MCP</text>
+  <text x="560" y="272" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8b949e">structure 5/5</text>
+  <text x="40" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-style="italic" fill="#f472b6">what does a browser-automation server look like?</text>
+  <text x="40" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8b949e">Custom Playwright MCP server: distributed test</text>
+  <text x="40" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8b949e">execution, own tool implementations, multi-context.</text>
+  <rect x="40" y="396" width="110" height="26" rx="4" fill="#831843"/>
+  <text x="95" y="413" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#f472b6">typescript</text>
+  <rect x="162" y="396" width="99" height="26" rx="4" fill="#831843"/>
+  <text x="211" y="413" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#f472b6">playwright</text>
+</svg>

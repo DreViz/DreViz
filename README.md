@@ -11,81 +11,81 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hdr_who_dark.svg">
-  <img src="hdr_who_light.svg" alt="who">
+  <source media="(prefers-color-scheme: dark)" srcset="bhdr_player_dark.svg">
+  <img src="bhdr_player_light.svg" alt="player">
 </picture>
 
-<img src="terminal.svg" alt="terminal intro">
+<img src="dialogue.svg" alt="dialogue box">
 
-Engineer in Bangalore. I build LLM agents that earn their keep: they plan,
-call tools, review their own output, and run on hardware I control. When the
-model isn't the hard part, I build what's around it — gateways, routing,
-per-token billing.
+Backend engineer in Bangalore. I build the systems under LLM agents —
+gateways, routing, per-token billing — and the agents themselves, which
+plan, call tools, and review their own output on hardware I control.
 
 I like systems with real constraints. No customer data leaving the machine.
-Every token accounted for. Most repos below started as a question I couldn't
-answer by reading — so I built the answer.
+Every token accounted for. Most builds below started as a question I
+couldn't answer by reading — so I built the answer.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hdr_now_dark.svg">
-  <img src="hdr_now_light.svg" alt="now">
+  <source media="(prefers-color-scheme: dark)" srcset="bhdr_quest_dark.svg">
+  <img src="bhdr_quest_light.svg" alt="quest log">
 </picture>
 
-Shipping **[GoodFood](https://github.com/DreViz/GoodFood)** phase 7:
-deployment, walkthrough video, and the writeup of the 4 GB model-selection
-measurements. Going deeper on **Go**, agent evaluation, and MCP tooling.
+Active quest: ship **[GoodFood](https://github.com/DreViz/GoodFood)** phase
+7 — deployment, walkthrough video, and the writeup of the 4 GB
+model-selection measurements. Side quests: going deeper on **Go**, agent
+evaluation, MCP tooling.
 
-Open to AI/backend roles — Bangalore or remote.
+Open to backend/AI roles — Bangalore or remote.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hdr_building_dark.svg">
-  <img src="hdr_building_light.svg" alt="building">
+  <source media="(prefers-color-scheme: dark)" srcset="bhdr_builds_dark.svg">
+  <img src="bhdr_builds_light.svg" alt="the builds">
 </picture>
 
 <table>
   <tr>
-    <td><a href="https://github.com/DreViz/GoodFood"><img src="card_goodfood.svg" alt="GoodFood — how small can a model be before an agent breaks?"></a></td>
-    <td><a href="https://github.com/DreViz/Open-Router"><img src="card_openrouter.svg" alt="Open-Router — what does a gateway owe every SDK pointed at it?"></a></td>
+    <td><a href="https://github.com/DreViz/GoodFood"><img src="bld_goodfood.svg" alt="GoodFood — how small can a model be before an agent breaks?"></a></td>
+    <td><a href="https://github.com/DreViz/Open-Router"><img src="bld_openrouter.svg" alt="Open-Router — what does a gateway owe every SDK pointed at it?"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DreViz/doc_agent"><img src="card_docagent.svg" alt="doc_agent — can an agent critique its own draft, honestly?"></a></td>
-    <td><a href="https://github.com/DreViz/Infra4rge"><img src="card_infraforge.svg" alt="InfraForge — what if describing infra was the whole job?"></a></td>
+    <td><a href="https://github.com/DreViz/doc_agent"><img src="bld_docagent.svg" alt="doc_agent — can an agent critique its own draft, honestly?"></a></td>
+    <td><a href="https://github.com/DreViz/Infra4rge"><img src="bld_infraforge.svg" alt="InfraForge — what if describing infra was the whole job?"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DreViz/Playwrite_MCP"><img src="card_playwrite.svg" alt="Playwrite_MCP — what does a browser-automation server look like from scratch?"></a></td>
+    <td><a href="https://github.com/DreViz/Playwrite_MCP"><img src="bld_playwrite.svg" alt="Playwrite_MCP — what does a browser-automation server look like?"></a></td>
     <td></td>
   </tr>
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hdr_earlier_dark.svg">
-  <img src="hdr_earlier_light.svg" alt="earlier">
+  <source media="(prefers-color-scheme: dark)" srcset="bhdr_saves_dark.svg">
+  <img src="bhdr_saves_light.svg" alt="old saves">
 </picture>
 
 Where the questions started. Manim animations, sentiment analysis, stocks,
 a music API. Kept for the record.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hdr_stack_dark.svg">
-  <img src="hdr_stack_light.svg" alt="stack">
-</picture>
-
-| | |
-|---|---|
-| **Languages** | Python · Go · TypeScript · JavaScript |
-| **AI/LLM** | Ollama · qwen3 · multi-agent · tool calling · self-review loops · MCP |
-| **Backend** | FastAPI · Next.js · REST · SSE streaming |
-| **Data** | PostgreSQL |
-| **Tooling** | Playwright · Manim · Docker |
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hdr_languages_dark.svg">
-  <img src="hdr_languages_light.svg" alt="languages">
+  <source media="(prefers-color-scheme: dark)" srcset="bhdr_inv_dark.svg">
+  <img src="bhdr_inv_light.svg" alt="inventory">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="langs_anim_dark.svg">
-  <img alt="Top languages" src="langs_anim_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="inv_dark.svg">
+  <img alt="inventory panel" src="inv_light.svg">
+</picture>
+
+Python · Go · TypeScript · FastAPI · Next.js · PostgreSQL · Ollama · MCP ·
+Playwright · Manim · Docker
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="bhdr_xp_dark.svg">
+  <img src="bhdr_xp_light.svg" alt="xp bars">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="xp_dark.svg">
+  <img alt="language xp bars" src="xp_light.svg">
 </picture>
 
 <!-- Uncomment and fill in when ready:

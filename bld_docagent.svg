@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450" role="img" aria-label="doc_agent" shape-rendering="crispEdges">
+  <rect x="6" y="6" width="588" height="438" fill="#101120"/>
+  <rect width="588" height="438" fill="#1a1b2e" stroke="#30363d" stroke-width="2"/>
+  <g>
+    <rect x="180" y="40" width="180" height="160" fill="#78350f"/>
+    <rect x="192" y="72" width="156" height="8" fill="#57534e"/>
+    <rect x="192" y="124" width="156" height="8" fill="#57534e"/>
+    <rect x="192" y="176" width="156" height="8" fill="#57534e"/>
+    <rect x="196" y="48" width="12" height="24" fill="#a78bfa"/><rect x="212" y="48" width="10" height="24" fill="#60a5fa"/><rect x="226" y="48" width="14" height="24" fill="#4ade80"/><rect x="244" y="48" width="10" height="24" fill="#f472b6"/><rect x="258" y="48" width="12" height="24" fill="#fbbf24"/><rect x="274" y="48" width="14" height="24" fill="#a78bfa"/><rect x="292" y="48" width="10" height="24" fill="#4ade80"/><rect x="306" y="48" width="12" height="24" fill="#60a5fa"/><rect x="322" y="48" width="10" height="24" fill="#f472b6"/>
+    <rect x="196" y="100" width="14" height="24" fill="#4ade80"/><rect x="214" y="100" width="10" height="24" fill="#fbbf24"/><rect x="228" y="100" width="12" height="24" fill="#a78bfa"/><rect x="244" y="100" width="14" height="24" fill="#60a5fa"/><rect x="262" y="100" width="10" height="24" fill="#f472b6"/><rect x="276" y="100" width="12" height="24" fill="#4ade80"/><rect x="292" y="100" width="14" height="24" fill="#a78bfa"/><rect x="310" y="100" width="10" height="24" fill="#60a5fa"/><rect x="324" y="100" width="8" height="24" fill="#fbbf24"/>
+    <rect x="196" y="152" width="10" height="24" fill="#60a5fa"/><rect x="210" y="152" width="14" height="24" fill="#f472b6"/><rect x="228" y="152" width="10" height="24" fill="#fbbf24"/><rect x="242" y="152" width="12" height="24" fill="#4ade80"/><rect x="258" y="152" width="14" height="24" fill="#a78bfa"/><rect x="276" y="152" width="10" height="24" fill="#60a5fa"/><rect x="290" y="152" width="12" height="24" fill="#4ade80"/><rect x="306" y="152" width="10" height="24" fill="#f472b6"/><rect x="320" y="152" width="12" height="24" fill="#60a5fa"/>
+    <rect x="0" y="200" width="600" height="12" fill="#4ade80"/>
+    <rect x="0" y="212" width="600" height="14" fill="#92400e"/>
+  </g>
+  <text x="40" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="700" fill="#e6edf3">doc_agent</text>
+  <text x="560" y="272" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8b949e">structure 3/5</text>
+  <text x="40" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-style="italic" fill="#a78bfa">can an agent critique its own draft, honestly?</text>
+  <text x="40" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8b949e">Plans its work, records assumptions, runs a bounded</text>
+  <text x="40" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8b949e">self-review loop, renders a polished .docx.</text>
+  <rect x="40" y="396" width="89" height="26" rx="4" fill="#2e1065"/>
+  <text x="84" y="413" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#c084fc">python</text>
+  <rect x="141" y="396" width="99" height="26" rx="4" fill="#2e1065"/>
+  <text x="190" y="413" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#c084fc">fastapi</text>
+</svg>

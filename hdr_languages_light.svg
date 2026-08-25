@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="92" viewBox="0 0 620 92" role="img" aria-label="languages">
-  <rect width="620" height="92" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
-  <rect x="20" y="24" width="44" height="44" rx="10" fill="#eaeef2" stroke="#1b7c83" stroke-width="1.5"/>
-  <rect x="33" y="44" width="6" height="12" rx="2" fill="#1b7c83" opacity="0.55"/>
-  <rect x="42" y="38" width="6" height="18" rx="2" fill="#1b7c83" opacity="0.75"/>
-  <rect x="51" y="32" width="6" height="24" rx="2" fill="#1b7c83"/>
-  <text x="84" y="57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="700" fill="#1b7c83">~/languages</text>
-  <text x="600" y="55" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#57606a">// github linguist</text>
-</svg>

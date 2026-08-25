@@ -28,7 +28,7 @@
   </g>
 
   <rect x="60" y="94" width="12" height="12" fill="#4ade80"/>
-  <text x="84" y="105" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="3" fill="#4ade80">SINGLE PLAYER // MULTI-AGENT</text>
+  <text x="84" y="105" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="3" fill="#4ade80">SINGLE PLAYER // BACKEND + AGENTS</text>
 
   <g fill="#101120">
     <use href="#pV" transform="translate(65,155) scale(12)"/><use href="#pA" transform="translate(137,155) scale(12)"/><use href="#pI" transform="translate(209,155) scale(12)"/><use href="#pB" transform="translate(281,155) scale(12)"/><use href="#pH" transform="translate(353,155) scale(12)"/><use href="#pA" transform="translate(425,155) scale(12)"/><use href="#pV" transform="translate(497,155) scale(12)"/>
@@ -41,17 +41,17 @@
     <use href="#pD" transform="translate(588,150) scale(12)"/><use href="#pE" transform="translate(660,150) scale(12)"/><use href="#pO" transform="translate(732,150) scale(12)"/><use href="#pR" transform="translate(804,150) scale(12)"/><use href="#pI" transform="translate(876,150) scale(12)"/>
   </g>
 
-  <text x="60" y="280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#a5b4fc">builds llm agents · runs them local · bills every token</text>
-  <rect x="610" y="264" width="12" height="22" fill="#4ade80">
+  <text x="60" y="280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" fill="#a5b4fc">backend systems first, llm agents on top</text>
+  <rect x="592" y="264" width="12" height="22" fill="#4ade80">
     <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur="1.1s" repeatCount="indefinite" calcMode="discrete"/>
   </rect>
 
-  <rect x="60" y="300" width="140" height="30" rx="4" fill="#14532d"/>
-  <text x="130" y="320" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#4ade80">LOCAL MODELS</text>
-  <rect x="212" y="300" width="130" height="30" rx="4" fill="#172554"/>
-  <text x="277" y="320" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#60a5fa">NO API KEYS</text>
-  <rect x="354" y="300" width="200" height="30" rx="4" fill="#2e1065"/>
-  <text x="454" y="320" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#c084fc">EVERY TOKEN BILLED</text>
+  <rect x="60" y="300" width="235" height="30" rx="4" fill="#14532d"/>
+  <text x="177" y="320" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#4ade80">GO · POSTGRES · FASTAPI</text>
+  <rect x="307" y="300" width="265" height="30" rx="4" fill="#172554"/>
+  <text x="439" y="320" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#60a5fa">STREAMING · ATOMIC BILLING</text>
+  <rect x="584" y="300" width="175" height="30" rx="4" fill="#2e1065"/>
+  <text x="671" y="320" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#c084fc">LOCAL LLM AGENTS</text>
 
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="3s" repeatCount="indefinite"/>
@@ -64,6 +64,16 @@
     <rect x="970" y="308" width="40" height="36" fill="#58a6ff"/>
     <rect x="975" y="344" width="10" height="16" fill="#1f2937"/>
     <rect x="995" y="344" width="10" height="16" fill="#1f2937"/>
+  </g>
+  <g>
+    <rect x="1016" y="296" width="44" height="64" fill="#334155" stroke="#1e293b" stroke-width="2"/>
+    <rect x="1022" y="304" width="32" height="6" fill="#0f172a"/>
+    <rect x="1022" y="318" width="32" height="6" fill="#0f172a"/>
+    <rect x="1022" y="332" width="32" height="6" fill="#0f172a"/>
+    <rect x="1022" y="346" width="32" height="6" fill="#0f172a"/>
+    <rect x="1048" y="305" width="4" height="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/></rect>
+    <rect x="1048" y="319" width="4" height="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" begin="0.7s" repeatCount="indefinite"/></rect>
+    <rect x="1048" y="333" width="4" height="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.2;1" dur="1.8s" begin="1.4s" repeatCount="indefinite"/></rect>
   </g>
   <g>
     <rect x="1064" y="276" width="52" height="84" fill="#312e81"/>

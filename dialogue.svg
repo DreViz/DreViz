@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="545" viewBox="0 0 1200 545" role="img" aria-label="dialogue box" shape-rendering="crispEdges">
+  <rect x="6" y="6" width="1188" height="533" fill="#101120"/>
+  <rect width="1188" height="533" fill="#1a1b2e" stroke="#4ade80" stroke-width="3"/>
+  <rect x="40" y="18" width="150" height="34" fill="#101120"/>
+  <text x="115" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700" letter-spacing="2" fill="#fbbf24">VAIBHAV</text>
+  <text x="1160" y="42" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#8b949e">press any key ▸</text>
+
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="0.4s" fill="freeze"/>
+    <text x="50" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#4ade80">$</text>
+    <text x="76" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#e6edf3">whoami</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.0s" fill="freeze"/>
+    <text x="76" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#8b949e">backend engineer · bangalore · i build the systems under the agents</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1.8s" fill="freeze"/>
+    <text x="50" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#4ade80">$</text>
+    <text x="76" y="232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#e6edf3">cat stack.txt</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="2.4s" fill="freeze"/>
+    <text x="76" y="288" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#8b949e">go · postgres · fastapi · sse streaming · atomic billing · ollama</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.2s" fill="freeze"/>
+    <text x="50" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#4ade80">$</text>
+    <text x="76" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#e6edf3">./status --now</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.8s" fill="freeze"/>
+    <text x="76" y="400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#8b949e">shipping GoodFood phase 7 · going deeper on go</text>
+    <text x="76" y="432" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#8b949e">open to backend/ai roles</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="4.4s" fill="freeze"/>
+    <text x="50" y="484" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#4ade80">$</text>
+    <rect x="82" y="464" width="14" height="26" fill="#fbbf24">
+      <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur="1.1s" repeatCount="indefinite" calcMode="discrete"/>
+    </rect>
+  </g>
+</svg>
