@@ -19,49 +19,53 @@ call tools, review their own output, and run on hardware I control. When the
 model isn't the hard part, I build what's around it — gateways, routing,
 per-token billing.
 
-Most of my repos start from a question I actually had. How small can a local
-model be before a multi-step agent breaks? What does an OpenAI-compatible
-gateway owe everyone pointing an SDK at it? I like systems with real
-constraints: no customer data leaving the machine, every token accounted for.
+I like systems with real constraints. No customer data leaving the machine.
+Every token accounted for. Most repos below started as a question I couldn't
+answer by reading — so I built the answer.
 
 ### Now
 
-Shipping **[GoodFood](https://github.com/DreViz/GoodFood)** phase 7 —
+Shipping **[GoodFood](https://github.com/DreViz/GoodFood)** phase 7:
 deployment, walkthrough video, and the writeup of the 4 GB model-selection
 measurements. Going deeper on **Go**, agent evaluation, and MCP tooling.
 
+Open to AI/backend roles — Bangalore or remote.
+
 ### Building
 
-**[GoodFood](https://github.com/DreViz/GoodFood)** — two-agent restaurant
-concierge. A Planner decides the next action as strict JSON, a Responder
-turns tool output into human text, all on a local Ollama model so no
-customer data leaves the machine. The interesting question: how small can
-the model go before multi-step agency breaks — measured, not guessed.
+**[GoodFood](https://github.com/DreViz/GoodFood)** — *how small can a model
+be before a multi-step agent breaks?*
+Two-agent restaurant concierge. A Planner decides the next action as strict
+JSON, a Responder speaks human, all on a local Ollama model so no customer
+data leaves the machine. The 4 GB question is measured, not guessed.
 `python` `fastapi` `next.js` `ollama` `postgres`
 
-**[Open-Router](https://github.com/DreViz/Open-Router)** — OpenAI-compatible
-LLM gateway. Point any OpenAI SDK at it: it authenticates, rate-limits,
-routes to the right upstream provider, streams over SSE, and deducts
-per-token credits atomically. `go` `postgres` `next.js`
+**[Open-Router](https://github.com/DreViz/Open-Router)** — *what does a
+gateway owe everyone pointing an SDK at it?*
+OpenAI-compatible LLM gateway in Go: auth, rate limits, provider routing,
+SSE streaming, atomic per-token billing. Point any OpenAI SDK at it —
+nothing changes client-side. `go` `postgres` `next.js`
 
-**[doc_agent](https://github.com/DreViz/doc_agent)** — autonomous document
-agent. Plans its own work, drafts with explicitly recorded assumptions, runs
-a bounded self-review loop, then renders a polished .docx.
-`python` `fastapi`
+**[doc_agent](https://github.com/DreViz/doc_agent)** — *can an agent
+critique its own draft, honestly?*
+Plans its own work, drafts with explicitly recorded assumptions, runs a
+bounded self-review loop, then renders a polished .docx. Ships with
+hermetic tests. `python` `fastapi`
 
-**[InfraForge](https://github.com/DreViz/Infra4rge)** — describe cloud
-infrastructure in plain English, get production-ready Terraform with
-architecture diagrams, cost estimates, and security audits. In the browser,
-no account. `typescript`
+**[InfraForge](https://github.com/DreViz/Infra4rge)** — *what if describing
+infrastructure was the whole job?*
+Plain English in, production-ready Terraform out — architecture diagrams,
+cost estimates, security audits. In the browser, no account. `typescript`
 
-**[Playwrite_MCP](https://github.com/DreViz/Playwrite_MCP)** — custom
-Playwright MCP server: distributed test execution and browser automation
-with its own tool implementations. `typescript` `playwright`
+**[Playwrite_MCP](https://github.com/DreViz/Playwrite_MCP)** — *what does a
+browser-automation server look like from scratch?*
+Custom Playwright MCP server: distributed test execution, own tool
+implementations, multiple browser contexts. `typescript` `playwright`
 
 ### Earlier
 
-Manim animations and small Python experiments — sentiment, stocks, a music
-API. Kept for the record.
+Where the questions started. Manim animations, sentiment analysis, stocks,
+a music API. Kept for the record.
 
 ### Stack
 
@@ -71,6 +75,7 @@ API. Kept for the record.
 | **AI/LLM** | Ollama · qwen3 · multi-agent · tool calling · self-review loops · MCP |
 | **Backend** | FastAPI · Next.js · REST · SSE streaming |
 | **Data** | PostgreSQL |
+| **Tooling** | Playwright · Manim · Docker |
 
 ### Languages
 
