@@ -1,7 +1,7 @@
 <a href="https://github.com/DreViz">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner_dark.svg">
-    <img alt="Vaibhav Deori" src="banner_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="hero_dark.svg">
+    <img alt="Vaibhav Deori" src="hero_light.svg">
   </picture>
 </a>
 
