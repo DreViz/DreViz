@@ -65,16 +65,11 @@ API. Kept for the record.
 | **Backend** | FastAPI · Next.js · REST · SSE streaming |
 | **Data** | PostgreSQL |
 
-### Stats
+### Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DreViz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&icon_color=8b949e">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DreViz&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=0969da&text_color=1f2328&icon_color=57606a">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DreViz&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreViz&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=0969da&text_color=1f2328">
+  <source media="(prefers-color-scheme: dark)" srcset="langs_dark.svg">
+  <img alt="Top languages" src="langs_light.svg">
 </picture>
 
 <!-- Uncomment and fill in when ready:
