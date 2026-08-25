@@ -6,11 +6,6 @@
 </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="ticker_dark.svg">
-  <img alt="stack ticker" src="ticker_light.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="bhdr_player_dark.svg">
   <img src="bhdr_player_light.svg" alt="player">
 </picture>
@@ -56,14 +51,6 @@ Open to backend/AI roles — Bangalore or remote.
     <td></td>
   </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bhdr_saves_dark.svg">
-  <img src="bhdr_saves_light.svg" alt="old saves">
-</picture>
-
-Where the questions started. Manim animations, sentiment analysis, stocks,
-a music API. Kept for the record.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="bhdr_inv_dark.svg">
