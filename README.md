@@ -10,7 +10,7 @@
   <img src="sec_player_light.svg" alt="player">
 </picture>
 
-<img src="dialogue.svg" alt="dialogue box">
+<img src="dialogue.svg?v=2" alt="dialogue box">
 
 Backend engineer in Bangalore. I build the systems under LLM agents —
 gateways, routing, per-token billing — and the agents themselves, which
@@ -21,14 +21,11 @@ Every token accounted for. Most builds below started as a question I
 couldn't answer by reading — so I built the answer.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="sec_quest_dark.svg">
-  <img src="sec_quest_light.svg" alt="quest log">
+  <source media="(prefers-color-scheme: dark)" srcset="sec_quest_dark.svg?v=2">
+  <img src="sec_quest_light.svg?v=2" alt="quest log">
 </picture>
 
-Active quest: ship **[GoodFood](https://github.com/DreViz/GoodFood)** phase
-7 — deployment, walkthrough video, and the writeup of the 4 GB
-model-selection measurements. Side quests: going deeper on **Go**, agent
-evaluation, MCP tooling.
+Current quests: going deeper on **Go**, agent evaluation, MCP tooling.
 
 Open to backend/AI roles — Bangalore or remote.
 

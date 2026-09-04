@@ -30,7 +30,7 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.8s" fill="freeze"/>
-    <text x="76" y="400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#8b949e">shipping GoodFood phase 7 · going deeper on go</text>
+    <text x="76" y="400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#8b949e">going deeper on go · agent evaluation · mcp tooling</text>
     <text x="76" y="432" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#8b949e">open to backend/ai roles</text>
   </g>
   <g opacity="0">
