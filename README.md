@@ -55,12 +55,12 @@ Open to backend/AI roles — Bangalore or remote.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="inv_dark.svg">
-  <img alt="inventory panel" src="inv_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="inv_dark.svg?v=2">
+  <img alt="inventory panel" src="inv_light.svg?v=2">
 </picture>
 
-Python · Go · TypeScript · FastAPI · Next.js · PostgreSQL · Ollama · MCP ·
-Playwright · Manim · Docker
+Python · Go · JavaScript · TypeScript · Node.js · FastAPI · Next.js ·
+PostgreSQL · Ollama · MCP · Playwright · Manim · Docker
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="sec_xp_dark.svg">
