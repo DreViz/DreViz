@@ -40,15 +40,15 @@ Open to backend/AI roles — Bangalore or remote.
     <td><a href="https://github.com/DreViz/Open-Router"><img src="bld_openrouter.svg" alt="Open-Router — what does a gateway owe every SDK pointed at it?"></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/DreViz/doc_agent"><img src="bld_docagent.svg" alt="doc_agent — can an agent critique its own draft, honestly?"></a></td>
     <td><a href="https://github.com/DreViz/Infra4rge"><img src="bld_infraforge.svg" alt="InfraForge — what if describing infra was the whole job?"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/DreViz/Playwrite_MCP"><img src="bld_playwrite.svg" alt="Playwrite_MCP — what does a browser-automation server look like?"></a></td>
     <td><a href="https://github.com/DreViz/signet"><img src="bld_signet.svg" alt="signet — can an agent answer an RFP without guessing?"></a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/DreViz/Ageis"><img src="bld_ageis.svg" alt="Ageis — how do you retry a grant you can't verify?"></a></td>
+    <td><a href="https://github.com/DreViz/doc_agent"><img src="bld_docagent.svg" alt="doc_agent — can an agent critique its own draft, honestly?"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DreViz/Playwrite_MCP"><img src="bld_playwrite.svg" alt="Playwrite_MCP — what does a browser-automation server look like?"></a></td>
     <td></td>
   </tr>
 </table>
