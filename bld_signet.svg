@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450" role="img" aria-label="signet" shape-rendering="crispEdges">
+  <rect x="6" y="6" width="588" height="438" fill="#101120"/>
+  <rect width="588" height="438" fill="#1a1b2e" stroke="#30363d" stroke-width="2"/>
+  <g>
+    <rect x="296" y="36" width="8" height="12" fill="#67e8f9"/>
+    <rect x="270" y="48" width="60" height="14" fill="#06b6d4"/>
+    <rect x="258" y="62" width="84" height="14" fill="#0891b2"/>
+    <rect x="192" y="76" width="216" height="10" fill="#164e63"/>
+    <rect x="200" y="76" width="200" height="124" fill="#0e7490"/>
+    <rect x="208" y="86" width="16" height="114" fill="#155e75"/>
+    <rect x="376" y="86" width="16" height="114" fill="#155e75"/>
+    <rect x="236" y="100" width="24" height="20" fill="#a5f3fc"/>
+    <rect x="340" y="100" width="24" height="20" fill="#a5f3fc"/>
+    <rect x="236" y="136" width="24" height="20" fill="#a5f3fc"/>
+    <rect x="340" y="136" width="24" height="20" fill="#a5f3fc"/>
+    <rect x="288" y="142" width="24" height="8" fill="#083344"/>
+    <rect x="284" y="150" width="32" height="50" fill="#083344"/>
+    <rect x="278" y="96" width="40" height="40" rx="8" fill="#06b6d4"><animate attributeName="opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/></rect>
+    <rect x="286" y="104" width="24" height="24" rx="5" fill="#164e63"/>
+    <rect x="294" y="112" width="8" height="8" fill="#a5f3fc"/>
+    <rect x="0" y="200" width="600" height="12" fill="#4ade80"/>
+    <rect x="0" y="212" width="600" height="14" fill="#92400e"/>
+  </g>
+  <text x="40" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="30" font-weight="700" fill="#e6edf3">signet</text>
+  <text x="560" y="272" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8b949e">structure 5/5</text>
+  <text x="40" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-style="italic" fill="#22d3ee">can an agent answer an RFP without guessing?</text>
+  <text x="40" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8b949e">Slack-native RFP agent: triages each question,</text>
+  <text x="40" y="370" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" fill="#8b949e">drafts grounded answers, refuses to guess.</text>
+  <rect x="40" y="396" width="110" height="26" rx="4" fill="#164e63"/>
+  <text x="95" y="413" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#22d3ee">typescript</text>
+  <rect x="162" y="396" width="108" height="26" rx="4" fill="#164e63"/>
+  <text x="216" y="413" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#22d3ee">postgres</text>
+  <rect x="282" y="396" width="108" height="26" rx="4" fill="#164e63"/>
+  <text x="336" y="413" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#22d3ee">pgvector</text>
+</svg>

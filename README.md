@@ -45,6 +45,10 @@ Open to backend/AI roles — Bangalore or remote.
   </tr>
   <tr>
     <td><a href="https://github.com/DreViz/Playwrite_MCP"><img src="bld_playwrite.svg" alt="Playwrite_MCP — what does a browser-automation server look like?"></a></td>
+    <td><a href="https://github.com/DreViz/signet"><img src="bld_signet.svg" alt="signet — can an agent answer an RFP without guessing?"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/DreViz/Ageis"><img src="bld_ageis.svg" alt="Ageis — how do you retry a grant you can't verify?"></a></td>
     <td></td>
   </tr>
 </table>
